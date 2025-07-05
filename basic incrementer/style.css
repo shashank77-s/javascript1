@@ -1,0 +1,27 @@
+#labelCount{
+    display: block;
+    text-align: center;
+    text-align: center;
+    font-size: 10em;
+    color: red;
+}
+
+*{
+    background-color: aliceblue;
+}
+#buttonId{
+    text-align: center;
+    padding: 30 px;
+}
+.buttons{
+    background-color: rgba(0, 17, 168, 0.644);
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color: rgb(42, 40, 82);
+}
