@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    background-image: url(itach.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
+}
+
+
+#clock-contianer{
+     margin-top: 300px;
+    justify-items: center;
+    align-items: center;
+    height: 200px;
+    font-size: 35px;
+    color: white;
+    background-color: antiquewhite;
+    width: 100px;
+}
